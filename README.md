@@ -15,7 +15,7 @@ of Bengali/Bangla language models for the [spaCy](https://github.com/explosion/s
 
 | Date | Model | Version | Dep | Ent | Vec | Size | License | | |
 | --- | --- | --- | :---: | :---: | :---: | ---: | --- | --- | --- |
-| `2018-08-27` | `bn_core_news_sm` | 2.0.0 | ✘ | ✔ | ✔ | 290 MB | MIT | [![][i]][i-bn_core_news_sm-0.1.0] | [![][dl]][bn_core_news_sm-0.1.0]
+| `2020-09-16` | `bn_core_news_sm` | 2.0.0 | ✘ | ✔ | ✔ | 290 MB | MIT | [![][i]][i-bn_core_news_sm-0.1.0] | [![][dl]][bn_core_news_sm-0.1.0]
 
 [bn_core_news_sm-0.1.0]: https://github.com/banglakit/spacy-models/releases/download/bn_core_news_sm-0.1.0/bn_core_news_sm-0.1.0.tar.gz
 
