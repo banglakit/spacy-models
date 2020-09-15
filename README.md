@@ -11,16 +11,15 @@ of Bengali/Bangla language models for the [spaCy](https://github.com/explosion/s
 > files. This allows us to still maintain a public release history.
 
 ## Releases
-
 ### spaCy v2.x
 
 | Date | Model | Version | Dep | Ent | Vec | Size | License | | |
 | --- | --- | --- | :---: | :---: | :---: | ---: | --- | --- | --- |
-| `2018-08-27` | `bn_core_news_sm` | 2.0.0 | ✘ | ✘ | ✔ | 39 MB | CC BY-SA | [![][i]][i-bn_core_news_sm-2.0.0] | [![][dl]][bn_core_news_sm-2.0.0]
+| `2018-08-27` | `bn_core_news_sm` | 2.0.0 | ✘ | ✔ | ✔ | 290 MB | MIT | [![][i]][i-bn_core_news_sm-0.1.0] | [![][dl]][bn_core_news_sm-0.1.0]
 
-[bn_core_news_sm-2.0.0]: https://github.com/banglakit/spacy-models/releases/download/bn_core_news_sm-2.0.0/bn_core_news_sm-2.0.0.tar.gz
+[bn_core_news_sm-0.1.0]: https://github.com/banglakit/spacy-models/releases/download/bn_core_news_sm-0.1.0/bn_core_news_sm-0.1.0.tar.gz
 
-[i-bn_core_news_sm-2.0.0]: https://github.com/banglakit/spacy-models/releases/bn_core_news_sm-2.0.0
+[i-bn_core_news_sm-0.1.0]: https://github.com/banglakit/spacy-models/releases/bn_core_news_sm-0.1.0
 
 [dl]: http://i.imgur.com/gQvPgr0.png
 [i]: http://i.imgur.com/OpLOcKn.png
